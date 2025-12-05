@@ -6,7 +6,9 @@ This project analyzes Germany’s pharma market performance using a hypothesis-d
 **Key Outcomes**
 
 Built an interactive Excel dashboard to visualize trends and performance.
+
 Created Executive presentation to present insights
+
 Conducted a multi-level root-cause analysis uncovering:
 
 **Analgesics collapse (−$151M)**
