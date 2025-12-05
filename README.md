@@ -19,6 +19,6 @@ Generated actionable insights for commercial decisions.
 
 **Project Components**
 
-Dashboard/ → Excel dashboard for exploration
+1) Excel dashboard for exploration
 
-**Deck/ → Presentation deck in progress (not final yet)**
+2) Presentation deck (in progress -not final yet)
