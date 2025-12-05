@@ -1,4 +1,4 @@
-# Pharmaceutical-Sales-Performance-Dashboard
+# Pharmaceutical-Sales-Decline Analysis
 #**Germany Pharma Sales Decline Analysis (2017–2020)**
 
 This project analyzes Germany’s pharma market performance using a hypothesis-driven diagnostic approach. The goal is to identify the key drivers behind a 7.9% YoY sales decline in 2020, using segmentation across product classes, distributors, sales teams, and monthly trends.
